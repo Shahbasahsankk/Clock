@@ -64,7 +64,7 @@ class _StopWatchState extends State<StopWatch> {
                       text: ".$digitMilliSeconds",
                       style:  TextStyle(
                         fontSize: 40.sp,
-                        color: Colors.yellow,
+                        color: Colors.red,
                       ),
                     )
                   ],
